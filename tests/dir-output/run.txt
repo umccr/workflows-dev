@@ -1,0 +1,7 @@
+* Run outdir.cwl:
+
+$ cwltool outdir.cwl --script script.py --outdir helloo
+
+* Run outdoor.cwl:
+
+$ cwltool outfile.cwl --outputdir "hey"
